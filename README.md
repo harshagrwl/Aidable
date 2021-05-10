@@ -1,5 +1,5 @@
 # Aidable
-A web application which takes in live audio speech recording as input, converts it into text and displays the relevant Sign Language animations.
+A complete Web based system which helps the us bridge the communication gap between hearing disabled and normal people using the Indian Sign Language.
 
 >- Front-end using HTML,CSS,JavaScript.
 >- Speech recognition using JavaScript Web speech API.
@@ -9,11 +9,13 @@ A web application which takes in live audio speech recording as input, converts 
 >- Tutorial for learning Indian Sign Language.
 
 
-## Prerequisites
+### Prerequisites
 
 >- Python >= 3.7
 >- Browser supports Web Speech API
 >- Download all required packages for python script A2SL/views.py
+
+#### Please refer the Project Report for more details
 
 
 
